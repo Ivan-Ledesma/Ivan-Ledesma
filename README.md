@@ -1,16 +1,19 @@
-### Hi there 👋
+### Bienvenido a mi perfil !
 
 <!--
-**Ivan-Ledesma/Ivan-Ledesma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Desarrollador Web Front End, actualmente me encuentro desarrollando tanto en Javascript vanilla como en React JS y aprendiendo tecnologías Web como AXIOS, Vite, Astro entre otras más.
 
-Here are some ideas to get you started:
+![image](https://user-images.githubusercontent.com/61190770/214065102-d1c40d85-225b-4bb5-b45d-26c0b238685b.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 Actualmente me encuentro en busca de proyectos colaborativos y mi primer trabajo en la industria IT.
+
+- 📫 Contactame: [...](https://ivan-ledesma.github.io/Portfolio/)
+
+- ⚡ dato curioso: Soy Amante de los videojuegos :D
+-->
+
+### Links alternos !
+<!-- 
+ - LinkedIn : https://www.linkedin.com/in/ivan-doledesma/
+ - Instagram : https://www.instagram.com/ivan_doledesma/
 -->
