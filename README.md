@@ -7,7 +7,7 @@ Soy Desarrollador Web Front End, actualmente me encuentro desarrollando tanto en
 
 - 👯 Actualmente me encuentro en busca de proyectos colaborativos y mi primer trabajo en la industria IT.
 
-- 📫 Contactame: [links to portfolio](https://ivan-ledesma.github.io/Portfolio/)
+- 📫 Contactame: [web personal](https://ivan-ledesma.github.io/Portfolio/)
 
 - ⚡ dato curioso: Soy Amante de los videojuegos :D
 
